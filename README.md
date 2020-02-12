@@ -1,5 +1,5 @@
 # <img src="./imgs/icon.png" style="float" width="40" align="center"> &nbsp; QSWATMOD
-##### <span style="color:red">***Note:*** We're planning to migrate QSWATMOD from QGIS2 to QGIS3 version soon and implement all dependencies. </span></br>
+##### <p style='color:red'>***Note:*** We're planning to migrate QSWATMOD from QGIS2 to QGIS3 version soon and implement all dependencies.</p></br>
 [QSWATMOD](https://swat.tamu.edu/software/swat-modflow/) is a QGIS-based graphical user interface that facilitates linking SWAT and MODFLOW, running SWAT-MODFLOW simulations, and viewing results.  
 This repository contains materials for the QSWATMOD tutorial.  
 - **[Installer](https://github.com/spark-brc/qswatmod/tree/master/Installer):** 
