@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>pics/USDAcolor.png</file>
+    <file>pics/help_pics/01_mf_option2.png</file>
+    <file>pics/help_pics/02_mf_option2.png</file>
+    <file>pics/aarhus-logo.png</file>
+    <file>pics/csu-logo.png</file>
+    <file>pics/icon.png</file>
+    <file>pics/logo.png</file>
+    <file>pics/SMdiagram.png</file>
+    <file>pics/SMdiagram_2.png</file>
+    <file>pics/modflow_obs.png</file>
+    <file>pics/TAMUAgriLifeResearchLogo.png</file>
+    <file>pics/help_pics/03_IdRiver01.png</file>
+    <file>pics/testpic.png</file>
+    <file>pics/flopylogo_sg.png</file>
+  </qresource>
+</RCC>
