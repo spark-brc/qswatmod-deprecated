@@ -20,7 +20,8 @@ The QGIS software must be installed on the system prior to the installation of Q
 <p align="center">
     <img src="./imgs/fig_01.PNG" width="500" align="center">
 </p>
-QSWATMOD has dependencies to third-party Python packages including FloPy3, Pandas, OpenCV, and pyshp. These packages will be installed automatically in the designated Python environment after QSWATMOD is activated in QGIS.
+
+QSWATMOD has dependencies to third-party Python packages including FloPy3, Pandas, OpenCV, and pyshp. These packages will be installed automatically in the designated Python environment after QSWATMOD is activated in QGIS.  
 - Open QGIS after the installation of QSWATMOD is finished.
 - Click the “Yes” button to install the dependencies.
 
