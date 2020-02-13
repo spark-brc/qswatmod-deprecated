@@ -8,7 +8,8 @@ This repository contains materials for the QSWATMOD tutorial.
     - Fixed bug in installing the FloPy package 
 - **[Inputs](https://github.com/spark-brc/qswatmod/tree/master/Inputs):** ExampleDataset.zip
 - **[Source Code](https://github.com/spark-brc/qswatmod/tree/master/SourceCode)**
-    
+- **[Tutorial Document](https://github.com/spark-brc/qswatmod/blob/master/QSWATMOD%20Tutorial.pdf)** 
+
 -----
 # Installation
 The QGIS software must be installed on the system prior to the installation of QSWATMOD. We recommend installing the latest “long term release (LTR)” version of QGIS (2.18.21 ~ 2.18.27)
